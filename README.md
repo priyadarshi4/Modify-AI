@@ -1,4 +1,4 @@
-#  RESONATE
+#  Modify
 
 **Your private, AI-powered voice diary — record, reflect, and rediscover yourself through sound.**
 
