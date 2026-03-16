@@ -12,7 +12,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📖 Overview
-Resonate is a full-stack web application designed to be a modern, intelligent journaling experience. Users can record audio diary entries, which are then transcribed and analyzed by a AI model. The application provides deep insights into the user's mood trends, emotional patterns, and recurring topics, helping them achieve greater self-awareness. The entire system is built to be secure, private, and performant, leveraging a microservice-inspired architecture to separate concerns between the user-facing application, business logic, and machine learning computation.
+Modify is a full-stack web application designed to be a modern, intelligent journaling experience. Users can record audio diary entries, which are then transcribed and analyzed by a AI model. The application provides deep insights into the user's mood trends, emotional patterns, and recurring topics, helping them achieve greater self-awareness. The entire system is built to be secure, private, and performant, leveraging a microservice-inspired architecture to separate concerns between the user-facing application, business logic, and machine learning computation.
 
 ## ✨ Core Features
 
